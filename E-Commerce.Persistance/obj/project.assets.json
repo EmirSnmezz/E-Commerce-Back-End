@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Persistance\\E-Commerce.Persistance.csproj",
-      "projectName": "E-Commerce.Persistance",
-      "projectPath": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Persistance\\E-Commerce.Persistance.csproj",
+      "projectUniqueName": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Persistance\\E-CommerceBackEnd.Persistance.csproj",
+      "projectName": "E-CommerceBackEnd.Persistance",
+      "projectPath": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Persistance\\E-CommerceBackEnd.Persistance.csproj",
       "packagesPath": "C:\\Users\\emirc\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Persistance\\obj\\",
       "projectStyle": "PackageReference",

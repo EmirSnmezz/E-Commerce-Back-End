@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Domain\\E-Commerce.Domain.csproj",
-      "projectName": "E-Commerce.Domain",
-      "projectPath": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Domain\\E-Commerce.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Domain\\E-CommerceBackEnd.Domain.csproj",
+      "projectName": "E-CommerceBackEnd.Domain",
+      "projectPath": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Domain\\E-CommerceBackEnd.Domain.csproj",
       "packagesPath": "C:\\Users\\emirc\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Domain\\obj\\",
       "projectStyle": "PackageReference",

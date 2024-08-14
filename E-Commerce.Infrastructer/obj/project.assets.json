@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Infrastructer\\E-Commerce.Infrastructer.csproj",
-      "projectName": "E-Commerce.Infrastructer",
-      "projectPath": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Infrastructer\\E-Commerce.Infrastructer.csproj",
+      "projectUniqueName": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Infrastructer\\E-CommerceBackEnd.Infrastructer.csproj",
+      "projectName": "E-CommerceBackEnd.Infrastructer",
+      "projectPath": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Infrastructer\\E-CommerceBackEnd.Infrastructer.csproj",
       "packagesPath": "C:\\Users\\emirc\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Infrastructer\\obj\\",
       "projectStyle": "PackageReference",
