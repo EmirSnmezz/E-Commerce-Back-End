@@ -11,4 +11,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\E-Commerce.Application\E-CommerceBackEnd.Application.csproj" />
+    <ProjectReference Include="..\E-Commerce.Persistance\E-CommerceBackEnd.Persistance.csproj" />
+  </ItemGroup>
+
 </Project>

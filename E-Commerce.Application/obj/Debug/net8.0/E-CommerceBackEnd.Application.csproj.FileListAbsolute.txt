@@ -1,0 +1,16 @@
+C:\Users\emirc\source\repos\E-Commerce.BackEnd\E-Commerce.Application\bin\Debug\net8.0\E-CommerceBackEnd.Application.deps.json
+C:\Users\emirc\source\repos\E-Commerce.BackEnd\E-Commerce.Application\bin\Debug\net8.0\E-CommerceBackEnd.Application.dll
+C:\Users\emirc\source\repos\E-Commerce.BackEnd\E-Commerce.Application\bin\Debug\net8.0\E-CommerceBackEnd.Application.pdb
+C:\Users\emirc\source\repos\E-Commerce.BackEnd\E-Commerce.Application\bin\Debug\net8.0\E-CommerceBackEnd.Domain.dll
+C:\Users\emirc\source\repos\E-Commerce.BackEnd\E-Commerce.Application\bin\Debug\net8.0\E-CommerceBackEnd.Domain.pdb
+C:\Users\emirc\source\repos\E-Commerce.BackEnd\E-Commerce.Application\obj\Debug\net8.0\E-CommerceBackEnd.Application.csproj.AssemblyReference.cache
+C:\Users\emirc\source\repos\E-Commerce.BackEnd\E-Commerce.Application\obj\Debug\net8.0\E-CommerceBackEnd.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\source\repos\E-Commerce.BackEnd\E-Commerce.Application\obj\Debug\net8.0\E-CommerceBackEnd.Application.AssemblyInfoInputs.cache
+C:\Users\emirc\source\repos\E-Commerce.BackEnd\E-Commerce.Application\obj\Debug\net8.0\E-CommerceBackEnd.Application.AssemblyInfo.cs
+C:\Users\emirc\source\repos\E-Commerce.BackEnd\E-Commerce.Application\obj\Debug\net8.0\E-CommerceBackEnd.Application.csproj.CoreCompileInputs.cache
+C:\Users\emirc\source\repos\E-Commerce.BackEnd\E-Commerce.Application\obj\Debug\net8.0\E-CommerceBackEnd.Application.sourcelink.json
+C:\Users\emirc\source\repos\E-Commerce.BackEnd\E-Commerce.Application\obj\Debug\net8.0\E-Commer.FE60D47D.Up2Date
+C:\Users\emirc\source\repos\E-Commerce.BackEnd\E-Commerce.Application\obj\Debug\net8.0\E-CommerceBackEnd.Application.dll
+C:\Users\emirc\source\repos\E-Commerce.BackEnd\E-Commerce.Application\obj\Debug\net8.0\refint\E-CommerceBackEnd.Application.dll
+C:\Users\emirc\source\repos\E-Commerce.BackEnd\E-Commerce.Application\obj\Debug\net8.0\E-CommerceBackEnd.Application.pdb
+C:\Users\emirc\source\repos\E-Commerce.BackEnd\E-Commerce.Application\obj\Debug\net8.0\ref\E-CommerceBackEnd.Application.dll
