@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace E_Commerce.Application.Abstractions.Repositories
 {
-    public interface IReadRepository
+    public interface IReadRepository<T>: IRepository<T> where T : class
     {
+
     }
 }
