@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 
 namespace E_Commerce.Persistance
 {
-    public static class ServiceRegistration
+    public static class ServiceRegistration // bu class içerisindeki extension Method sayesinde IoC Container'a tanımlama yapmamızı sağlayan Registration Fonksyionlar içermektedir.
     {
-        public static void AddPersistanceService(this IServiceCollection services)
+        public static void AddPersistanceService(this IServiceCollection services) // extension Static fonksiyonlardır. Bir methodun extension olması için methodun static ve hangi interface/class extend edilecekse methodun parametrelerine this keywordu ile eklenmesi gerekmektedir. Yani yazmış olduğumuz fonksiyonu nereye ekleyeceğimizi belirtmiş oluyoruz 
         {
            services.AddSingleton<IProductService, ProductService>();
         }
