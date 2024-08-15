@@ -5,10 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace E_Commerce.Application.Abstractions
+namespace E_Commerce.Application.Abstractions.Entites
 {
     public interface IProductService
-    { 
+    {
         List<Product> GetAllProducts();
     }
 }

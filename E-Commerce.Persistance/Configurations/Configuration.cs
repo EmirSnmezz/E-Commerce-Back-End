@@ -14,10 +14,10 @@ namespace E_Commerce.Persistance.Configurations
         {
             get
             {
-                ConfigurationManager configurationManager = new();
-                configurationManager.SetBasePath(Path.Combine(Directory.GetCurrentDirectory(), "../../../Presentation/E-CommerceBackEnd.API"));
-                configurationManager.AddJsonFile("appsettings.json");
-                return configurationManager.GetConnectionString("PostgreSQL");
+                ConfigurationManager config = new();
+                config.SetBasePath(Path.Combine(Directory.GetCurrentDirectory(), "../../Presentation/E-CommerceBackEnd.API"));
+                config.AddJsonFile("appsettings.json");
+                return config.GetConnectionString("PostgreSQL");
             }
         }
     }

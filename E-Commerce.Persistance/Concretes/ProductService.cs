@@ -1,4 +1,4 @@
-﻿using E_Commerce.Application.Abstractions;
+﻿using E_Commerce.Application.Abstractions.Entites;
 using E_Commerce.Domain.Entities;
 using System;
 using System.Collections.Generic;

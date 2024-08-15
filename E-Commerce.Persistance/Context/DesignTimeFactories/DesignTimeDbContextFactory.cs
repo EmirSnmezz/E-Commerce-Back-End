@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using E_Commerce.Persistance.Configurations;
 
 namespace E_Commerce.Persistance.Context.DesignTimeFactories
 {
