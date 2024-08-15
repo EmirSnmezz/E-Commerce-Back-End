@@ -1,5 +1,6 @@
 ﻿using E_Commerce.Domain.Entities.Common;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,5 +13,6 @@ namespace E_Commerce.Domain.Entities
         public string Name{ get; set; }
         public int Stock { get; set; }
         public long Price { get; set; }
+        public ICollection<Order> Orders { get; set; }
     }
 }
