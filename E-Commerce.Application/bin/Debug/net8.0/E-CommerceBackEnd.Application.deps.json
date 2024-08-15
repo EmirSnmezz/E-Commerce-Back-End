@@ -16,7 +16,10 @@
       },
       "E-CommerceBackEnd.Domain/1.0.0": {
         "runtime": {
-          "E-CommerceBackEnd.Domain.dll": {}
+          "E-CommerceBackEnd.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
