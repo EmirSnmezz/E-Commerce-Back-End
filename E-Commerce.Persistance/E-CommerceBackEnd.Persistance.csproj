@@ -28,8 +28,4 @@
     <ProjectReference Include="..\E-Commerce.Application\E-CommerceBackEnd.Application.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Repositories\Write Repositories\" />
-  </ItemGroup>
-
 </Project>
