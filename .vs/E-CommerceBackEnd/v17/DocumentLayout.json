@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1FF85EB-752F-435E-B47C-E5E066FA1CD5}|E-Commerce.Persistance\\E-CommerceBackEnd.Persistance.csproj|c:\\users\\emirc\\source\\repos\\e-commerce.backend\\e-commerce.persistance\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1FF85EB-752F-435E-B47C-E5E066FA1CD5}|E-Commerce.Persistance\\E-CommerceBackEnd.Persistance.csproj|solutionrelative:e-commerce.persistance\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC4005A1-B6F4-4F14-AA3C-8D94705BF6FA}|E-Commerce.Application\\E-CommerceBackEnd.Application.csproj|c:\\users\\emirc\\source\\repos\\e-commerce.backend\\e-commerce.application\\abstractions\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4005A1-B6F4-4F14-AA3C-8D94705BF6FA}|E-Commerce.Application\\E-CommerceBackEnd.Application.csproj|solutionrelative:e-commerce.application\\abstractions\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1FF85EB-752F-435E-B47C-E5E066FA1CD5}|E-Commerce.Persistance\\E-CommerceBackEnd.Persistance.csproj|c:\\users\\emirc\\source\\repos\\e-commerce.backend\\e-commerce.persistance\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1FF85EB-752F-435E-B47C-E5E066FA1CD5}|E-Commerce.Persistance\\E-CommerceBackEnd.Persistance.csproj|solutionrelative:e-commerce.persistance\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC4005A1-B6F4-4F14-AA3C-8D94705BF6FA}|E-Commerce.Application\\E-CommerceBackEnd.Application.csproj|c:\\users\\emirc\\source\\repos\\e-commerce.backend\\e-commerce.application\\abstractions\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4005A1-B6F4-4F14-AA3C-8D94705BF6FA}|E-Commerce.Application\\E-CommerceBackEnd.Application.csproj|solutionrelative:e-commerce.application\\abstractions\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB540CA8-F708-4724-8B94-0B4B989652E2}|E-Commerce.Domain\\E-CommerceBackEnd.Domain.csproj|c:\\users\\emirc\\source\\repos\\e-commerce.backend\\e-commerce.domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB540CA8-F708-4724-8B94-0B4B989652E2}|E-Commerce.Domain\\E-CommerceBackEnd.Domain.csproj|solutionrelative:e-commerce.domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC4005A1-B6F4-4F14-AA3C-8D94705BF6FA}|E-Commerce.Application\\E-CommerceBackEnd.Application.csproj|c:\\users\\emirc\\source\\repos\\e-commerce.backend\\e-commerce.application\\abstractions\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4005A1-B6F4-4F14-AA3C-8D94705BF6FA}|E-Commerce.Application\\E-CommerceBackEnd.Application.csproj|solutionrelative:e-commerce.application\\abstractions\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB540CA8-F708-4724-8B94-0B4B989652E2}|E-Commerce.Domain\\E-CommerceBackEnd.Domain.csproj|c:\\users\\emirc\\source\\repos\\e-commerce.backend\\e-commerce.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB540CA8-F708-4724-8B94-0B4B989652E2}|E-Commerce.Domain\\E-CommerceBackEnd.Domain.csproj|solutionrelative:e-commerce.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC4005A1-B6F4-4F14-AA3C-8D94705BF6FA}|E-Commerce.Application\\E-CommerceBackEnd.Application.csproj|c:\\users\\emirc\\source\\repos\\e-commerce.backend\\e-commerce.application\\abstractions\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC4005A1-B6F4-4F14-AA3C-8D94705BF6FA}|E-Commerce.Application\\E-CommerceBackEnd.Application.csproj|solutionrelative:e-commerce.application\\abstractions\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC4005A1-B6F4-4F14-AA3C-8D94705BF6FA}|E-Commerce.Application\\E-CommerceBackEnd.Application.csproj|c:\\users\\emirc\\source\\repos\\e-commerce.backend\\e-commerce.application\\abstractions\\entites\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4005A1-B6F4-4F14-AA3C-8D94705BF6FA}|E-Commerce.Application\\E-CommerceBackEnd.Application.csproj|solutionrelative:e-commerce.application\\abstractions\\entites\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,64 +54,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Persistance\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "E-Commerce.Persistance\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Persistance\\ServiceRegistration.cs",
-              "RelativeToolTip": "E-Commerce.Persistance\\ServiceRegistration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABkAQAA",
+              "DocumentIndex": 1,
+              "Title": "IWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Application\\Abstractions\\Repositories\\IWriteRepository.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Abstractions\\Repositories\\IWriteRepository.cs",
+              "ToolTip": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Application\\Abstractions\\Repositories\\IWriteRepository.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Abstractions\\Repositories\\IWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T22:31:26.568Z",
+              "WhenOpened": "2024-08-15T21:25:27.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Application\\Abstractions\\Repositories\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Abstractions\\Repositories\\IReadRepository.cs",
+              "ToolTip": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Application\\Abstractions\\Repositories\\IReadRepository.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Abstractions\\Repositories\\IReadRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T21:25:11.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Persistance\\Concretes\\ProductService.cs",
-              "RelativeDocumentMoniker": "E-Commerce.Persistance\\Concretes\\ProductService.cs",
-              "ToolTip": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Persistance\\Concretes\\ProductService.cs",
-              "RelativeToolTip": "E-Commerce.Persistance\\Concretes\\ProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Application\\Abstractions\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Abstractions\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Application\\Abstractions\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Abstractions\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T14:18:15.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Application\\Abstractions\\IProductService.cs",
-              "RelativeDocumentMoniker": "E-Commerce.Application\\Abstractions\\IProductService.cs",
-              "ToolTip": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Application\\Abstractions\\IProductService.cs",
-              "RelativeToolTip": "E-Commerce.Application\\Abstractions\\IProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T12:36:38.792Z"
+              "WhenOpened": "2024-08-15T21:20:32.942Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "E-Commerce.Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "E-Commerce.Domain\\Entities\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Application\\Abstractions\\Entites\\IProductService.cs",
+              "RelativeDocumentMoniker": "E-Commerce.Application\\Abstractions\\Entites\\IProductService.cs",
+              "ToolTip": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Application\\Abstractions\\Entites\\IProductService.cs",
+              "RelativeToolTip": "E-Commerce.Application\\Abstractions\\Entites\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T12:27:08.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Domain\\Entities\\Common\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "E-Commerce.Domain\\Entities\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\emirc\\source\\repos\\E-Commerce.BackEnd\\E-Commerce.Domain\\Entities\\Common\\BaseEntity.cs",
-              "RelativeToolTip": "E-Commerce.Domain\\Entities\\Common\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T12:26:07.479Z"
+              "WhenOpened": "2024-08-15T20:44:50.269Z"
             }
           ]
         }
