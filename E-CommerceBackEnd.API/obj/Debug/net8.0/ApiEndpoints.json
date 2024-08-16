@@ -1,12 +1,18 @@
 [
   {
     "ContainingType": "E_CommerceBackEnd.API.Controllers.ProductsController",
-    "Method": "GetProducts",
+    "Method": "Index",
     "RelativePath": "api/Products",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

@@ -27,7 +27,7 @@ namespace E_Commerce.Persistance.Repositories.Write_Repositories
             return entityEntry.State == EntityState.Added;
         }
 
-        public async Task<bool> AddAsync(List<T> model)
+        public async Task<bool> AddRangeAsync(List<T> model)
         {
             await Table.AddRangeAsync(model); // birden çok veriyi, bir koleksiyonu bir anda eklemek için EfCore'da AddRange methodu kullanılır
             return true;

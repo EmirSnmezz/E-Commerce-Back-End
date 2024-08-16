@@ -1374,7 +1374,8 @@
       },
       "E-CommerceBackEnd.Application/1.0.0": {
         "dependencies": {
-          "E-CommerceBackEnd.Domain": "1.0.0"
+          "E-CommerceBackEnd.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.8"
         },
         "runtime": {
           "E-CommerceBackEnd.Application.dll": {

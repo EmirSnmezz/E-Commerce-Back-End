@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-CommerceBackEnd.Domain", "E-Commerce.Domain\E-CommerceBackEnd.Domain.csproj", "{DB540CA8-F708-4724-8B94-0B4B989652E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-CommerceBackEnd.Domain", "E-Commerce.Domain\E-CommerceBackEnd.Domain.csproj", "{DB540CA8-F708-4724-8B94-0B4B989652E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-CommerceBackEnd.Application", "E-Commerce.Application\E-CommerceBackEnd.Application.csproj", "{FC4005A1-B6F4-4F14-AA3C-8D94705BF6FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-CommerceBackEnd.Application", "E-Commerce.Application\E-CommerceBackEnd.Application.csproj", "{FC4005A1-B6F4-4F14-AA3C-8D94705BF6FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-CommerceBackEnd.Infrastructer", "E-Commerce.Infrastructer\E-CommerceBackEnd.Infrastructer.csproj", "{575BD4EB-B2FF-42B5-9F19-E7C34459B18D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-CommerceBackEnd.Infrastructer", "E-Commerce.Infrastructer\E-CommerceBackEnd.Infrastructer.csproj", "{575BD4EB-B2FF-42B5-9F19-E7C34459B18D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-CommerceBackEnd.Persistance", "E-Commerce.Persistance\E-CommerceBackEnd.Persistance.csproj", "{F1FF85EB-752F-435E-B47C-E5E066FA1CD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-CommerceBackEnd.Persistance", "E-Commerce.Persistance\E-CommerceBackEnd.Persistance.csproj", "{F1FF85EB-752F-435E-B47C-E5E066FA1CD5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{3E7768E1-6E60-45F3-A3D4-8D917C6D23F1}"
 EndProject
@@ -17,7 +17,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructer", "Infrastruc
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{A61041F6-8E40-4482-88CD-DE0299A8DEE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-CommerceBackEnd.API", "E-CommerceBackEnd.API\E-CommerceBackEnd.API.csproj", "{B76018FC-4CF8-4F84-91EB-4315970D9AE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-CommerceBackEnd.API", "E-CommerceBackEnd.API\E-CommerceBackEnd.API.csproj", "{B76018FC-4CF8-4F84-91EB-4315970D9AE7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FAF01C69-A091-4F30-8295-3C3D220A4292}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
