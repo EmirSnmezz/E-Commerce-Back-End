@@ -9,12 +9,12 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace E_Commerce.Persistance.Repositories.ReadRepositories
+namespace E_Commerce.Persistance.Repositories.BaseRepositories.ReadRepositories
 {
     public class ReadRepositoryBase<T> : IReadRepository<T> where T : BaseEntity
     {
         private readonly ECommerceContext _context;
-        public ReadRepositoryBase(ECommerceContext context) 
+        public ReadRepositoryBase(ECommerceContext context)
         {
             _context = context;
         }
