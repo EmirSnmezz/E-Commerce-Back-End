@@ -14,5 +14,21 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "E_CommerceBackEnd.API.Controllers.ProductsController",
+    "Method": "GetById",
+    "RelativePath": "api/Products/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

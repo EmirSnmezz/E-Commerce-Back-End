@@ -18,7 +18,7 @@ namespace E_CommerceBackEnd.API.Controllers
             _productWriteRepository = productWriteRepository;   
         }
         [HttpGet]
-        public async void Index()
+        public async Task Index()
         {
             _productWriteRepository.AddRangeAsync(new List<Product>()
             {
@@ -30,6 +30,13 @@ namespace E_CommerceBackEnd.API.Controllers
             });
 
             var count = await _productWriteRepository.SaveAsync();
+        }
+
+        [HttpGet ("{id}")]
+        public async Task<IActionResult> GetById(string id)
+        {
+            var result = await _productReadRepository.GetByIdAsync(id);
+            return Ok(result);
         }
     }
 }
